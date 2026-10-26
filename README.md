@@ -240,6 +240,3 @@ All tests passed! ✓
 6. Submit the pull request link on the platform
 
 
-frebdsjbcdvjdfkn
-
-dsbh
