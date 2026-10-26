@@ -167,6 +167,8 @@ async function runTests() {
     process.exit(1);
   } else {
     console.log('\nAll tests passed! ✓');
+
+    // need to add this down line to ensure the process exits cleanly after tests, otherwise it hangs
     process.exit(0);
   }
 }
